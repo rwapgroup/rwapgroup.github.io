@@ -8,10 +8,10 @@ RWAP stands for "Real World Asset Protocol". It's a new way to represent real-wo
 RWAP's first big project involves creating digital tokens backed by U.S. Treasury bonds. These tokens are kind of like digital IOUs, backed by real government promises to pay. This project is a partnership between AE Trust and a guy named Chris Hughes.
 
 ### The Plan
-AE Trust and Chris Hughes are teaming up for RWAP. They're also planning to merge AE Trust into RWAP. Think of it like a partnership where one company eventually becomes part of the other.
+AE Trust and Chris Hughes are teaming up for RWAP. They're also planning to merge AE Trust into RWAP. 
 
 ### How It Works
-1. **Accounts and Compliance**: AE Trust will handle all the nitty-gritty details of setting up accounts and making sure everything complies with legal stuff.
+1. **Accounts and Compliance**: AE Trust will handle all the details of setting up accounts and making sure everything complies with legally.
 2. **Two-Token System**: RWAP uses two types of tokens:
    - **STTB (Short-Term T-Bills Token)**: This token is like a digital version of a short-term government bond.
    - **DBILL (Debt Bill Token)**: This represents the stable value of the STTB token.
